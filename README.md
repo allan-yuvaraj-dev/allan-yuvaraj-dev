@@ -74,11 +74,6 @@
 - Built **robotic automation scripts** for reliable test execution.
 
 
-### 📊 GitHub Stats
-
-[![KarthickRamAlagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthickRamAlagar&bg_color=000000&color=4c9e86&line=8d4c9e&point=40413e&area=true&hide_border=true)](https://github.com/KarthickRamAlagar)
-
-
 # Crafted For SDLC . Driven by Purpose !
 
 
