@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/KarthickRamAlagar/KarthiNexus/main/public/KR.png" alt="KR Logo" width="55"/> Hi there 👋 I'm Allan Yuvaraj — Software Engineer | Embedded Systems & Automation Specialist
+## <img src="https://github.com/allan-yuvaraj-dev/allan-yuvaraj-dev/blob/main/AY.png" alt="AY Logo" width="55"/> Hi there 👋 I'm Allan Yuvaraj — Software Engineer | Embedded Systems & Automation Specialist
 
 🌐 **AY Nexus** –  [Visit KCU](https://karthi-nexus.vercel.app/RenderGate)  
  
