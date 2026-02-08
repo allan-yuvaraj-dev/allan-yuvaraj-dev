@@ -7,7 +7,7 @@
 
 - 🔭 Currently worked at **HCL Tech** 
 - 🔭 Previously worked at **LTI Mindtree** 
-- 🌱 Currently exploring Smart Automation, IoT Integrations, and Scalable Embedded Software
+- 🌱 Currently exploring Smart Automation, IoT Integrations, and   Scalable Embedded Software
 
 ### 🌐 Social Presence
 <p>
