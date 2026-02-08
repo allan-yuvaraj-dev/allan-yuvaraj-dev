@@ -1,6 +1,6 @@
 ## <img src="https://github.com/allan-yuvaraj-dev/allan-yuvaraj-dev/blob/main/AY.png" alt="AY Logo" width="55"/> Hi there 👋 I'm Allan Yuvaraj — Software Engineer | Embedded Systems & Automation Specialist
 
-🌐 **AY Nexus** –  [Visit KCU](https://karthi-nexus.vercel.app/RenderGate)  
+🌐 **AY Nexus** –  [Visit ACU](https://karthi-nexus.vercel.app/RenderGate)  
  
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
