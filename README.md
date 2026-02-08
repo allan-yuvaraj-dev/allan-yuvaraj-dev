@@ -55,22 +55,24 @@
 
 ### 🚀 My Contributions
 
-- ## 🖨️ Xerox MFP – Embedded Systems ## 
-  ** Tech ** : C++, Linux, Bash, Git, Embedded Systems
-<p> 
- - Developed and enhanced C++ modules on Linux for Xerox Multi-Function Printers (MFP).
- - Built Bash scripts for patch deployment with audit-ready traceability.
- - Implemented & validated Fax (T.30) over VoIP / FOIP, including large job handling.
-</p>
+## 🖨️ Xerox MFP – Embedded Systems
 
+**Tech:** C++, Linux, Bash, Git, Embedded Systems
 
-- ## 🏥 Baxter – Medical Devices Automation ## 
-  ** Tech ** : Python, Test Automation, Hardware-Software Validation
-<p> 
- - Automated 100+ test cases using Python, reducing manual effort by 60%.
- - Conducted hardware–software validation and robotic arm testing.
- - Built robotic automation scripts for reliable test execution.
-</p>
+- Developed and enhanced **C++ modules on Linux** for Xerox Multi-Function Printers (MFP).
+- Built **Bash scripts** for patch deployment with audit-ready traceability.
+- Implemented & validated **Fax (T.30)** over **VoIP / FOIP**, including large job handling.
+
+---
+
+## 🏥 Baxter – Medical Devices Automation
+
+**Tech:** Python, Test Automation, Hardware-Software Validation
+
+- Automated **100+ test cases** using Python, reducing manual effort by **60%**.
+- Conducted **hardware–software validation** and robotic arm testing.
+- Built **robotic automation scripts** for reliable test execution.
+
 
 ### 📊 GitHub Stats
 
